@@ -5,7 +5,7 @@
 <br>
 <h2>Funcionalidad</h2>
 <ol>
-  <li>Registrar producto : (POST)https://apirestcrudrailway-production.up.railway.app/productos </li> // Ex : Bobby->raw-JSON { "nombre": "Miel","precio": 2.99 }
+  <li>Registrar producto : (POST)https://apirestcrudrailway-production.up.railway.app/productos </li> // Ex : Body->raw-JSON { "nombre": "Miel","precio": 2.99 }
   <li>Listar productos: (GET)https://apirestcrudrailway-production.up.railway.app/productos</li>
   <li>Listar x Id : (GET)https://apirestcrudrailway-production.up.railway.app/productos/:id</li>
   <li>Actualizar producto : (PUT)https://apirestcrudrailway-production.up.railway.app/productos/:id</li>
